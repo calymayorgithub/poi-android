@@ -26,7 +26,7 @@ allprojects {
 And the POIA dependency itself:
 
 ```groovy
-implementation "com.github.SUPERCILEX.poi-android:poi:$poiVersion"
+implementation "com.github.calymayorgithub:poi-android:$poiVersion"  // 3.17 latest
 ```
 
 If you're using proguard, also add:
